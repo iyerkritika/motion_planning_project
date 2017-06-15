@@ -1,0 +1,2 @@
+# motion_planning_project
+This repository contains code for the motion planning project where 3 different algorithms namely A* , RRT* and ARA* were implemented in Gazebo using ROS. They were visualized in Rviz. These algorithms were all tested in 3 different Gazebo worlds and compared on their completeness, optimality, space and time complexity. These results were then compared to find which algorithm performed best in which scenarios. 
